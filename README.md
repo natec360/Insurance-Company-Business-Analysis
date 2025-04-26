@@ -8,6 +8,8 @@
 
 For Q1 2023 (and to a lesser extent, Q1 2022), there is a significant drop in retention (~ -80 pp). This looks like seasonality since this pattern occurs across multiple cohorts, where the cohort start date is in Q1. From a business perspective, this is probably due to people looking at their subscriptions at the beginning and end of each year and cancelling.
 
+<img src="7_mo_retention_age_group.PNG" alt="52 Week Retention Curve">
+
 New analysis: A/B test retention outcomes when adjusting the following criteria on all available user attributes (credit, claims, age, etc.). Additional useful data (to conduct aforementioned tests on) could include:
 
 Premium size
