@@ -1,5 +1,8 @@
-# Insurance-Company-Business-Analysis
-Insurance company business analysis looking at users, policies, and demographic data. Made business recommendations given user retention behavior.
+# Insurance Company Business Analysis
+
+## Objective: Insurance company business analysis looking at users, policies, and demographic data. Made business recommendations given user retention behavior.
+
+## Findings:
 
 <img src="52_week_retention_curve.PNG" alt="52 Week Retention Curve">
 
